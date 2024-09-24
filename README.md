@@ -1,2 +1,2 @@
 # E-commerce-semi-final
-E-commerce- by Html and CSS and JavaScript
+E-commerce- developed by Html and CSS and JavaScript
